@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Masai School(MERN)<br>👯 I’m looking to collaborate on software developer-related react.js<br>🤝 I’m looking for help with learning react.js and node .js<br>🌱 I’m currently learning full-stack web development<br>💬 Ask me anything about java-Script, react.js, redux<br>⚡ Fun fact- still I love to watch Cartoons 
+🔭 I’m currently a Software developer at upGrad<br>👯 Interested in React.js, Node.js, Nest.js<br>🤝 I’m looking for help with learning react.js and node .js<br>🌱 Transforming Ideas into reality<br>💬 Ask me anything about java-Script, react.js, redux<br>⚡ Fun fact- still I love to watch Cartoons 
 
 🌐 My Portfolio: "https://souravlahiri2507.github.io/"
 
