@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently a Software developer at upGrad<br>👯 Interested in React.js, Node.js, Nest.js, REST API, Graphql<br>🤝 I’m looking for help with learning react.js and node .js<br>🌱 Transforming Ideas into reality<br>💬 Ask me anything about java-Script, react.js, redux<br>⚡ Fun fact- still I love to watch Cartoons 
+💼 Software Developer specializing in Full Stack Web Development<br>
+🚀 Passionate about building scalable applications using React.js, Next.js, Node.js, NestJS, GraphQL, and MongoDB<br>
+💻 Experienced in developing modern frontend interfaces, REST APIs, and backend services<br>
+🌱 Continuously learning new technologies and improving software architecture skills<br>
+🤝 Open to collaborating on innovative web applications and open-source projects<br>
+💬 Ask me about JavaScript, React.js, Next.js, Node.js, NestJS, GraphQL, Redux, and MongoDB<br>
+⚡ I enjoy solving real-world problems through clean, efficient, and scalable code<br>
 
 🌐 My Portfolio: "https://souravlahiri2507.github.io/"
 
