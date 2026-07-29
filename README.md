@@ -7,7 +7,7 @@
 💬 Ask me about JavaScript, React.js, Next.js, Node.js, NestJS, GraphQL, Redux, and MongoDB<br>
 ⚡ I enjoy solving real-world problems through clean, efficient, and scalable code<br>
 
-🌐 My Portfolio: "https://souravlahiri2507.github.io/"
+🌐 My Portfolio: "https://souravlahiri2507.github.io/sourav_lahiri_portfolio/"
 
 🌐 My Linked-In: "https://www.linkedin.com/in/sourav-lahiri-64a126245/"
 
